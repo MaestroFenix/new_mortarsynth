@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "dev/flat_normal"
+	"$envmap" "env_cubemap"
+}
+

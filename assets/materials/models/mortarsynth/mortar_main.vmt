@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mortarsynth\mortar_main"
+	"$bumpmap" "models\mortarsynth\mortar_main_normal"
+	"$selfillum" "1"
+
+	"$halflambert"                "1"
+
+	// PHONG
+	"$phong"                      "1"
+	"$phongboost"                 "0.1"
+	"$phongexponent"                 "40"
+	"$phongfresnelranges"         "[1 3 6]"
+	"$phongalbedotint"            "1"
+	"$phongalbedoboost"           "11"
+	"$phongtint"         "[0.6 0.8 1]"
+
+	// RIM LIGHT
+	"$rimlight"                   "1"
+	"$rimlightexponent"           "162"
+	"$rimlightboost"              "0.4"
+	"$rimmask"                    "1"
+}

@@ -1,0 +1,55 @@
+"NPC_Mortarsynth.Hover"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.500"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/waste_scanner/hover.wav"
+}
+
+"NPC_Mortarsynth.HoverAlarm"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.500"
+	"pitch"			"60,82"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/waste_scanner/hover_alarm.wav"
+}
+
+"NPC_Mortarsynth.WarmUp"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/attack_charge.wav"
+}
+
+"NPC_Mortarsynth.EnergyShoot"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+	
+	"soundlevel"	"SNDLVL_GUNFIRE"
+
+	"wave"			"npc/scanner/scanner_electric2.wav"
+}
+
+"NPC_Mortarsynth.Shoot"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/attack_shoot.wav"
+}
+
